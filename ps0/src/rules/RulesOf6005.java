@@ -36,6 +36,7 @@ public class RulesOf6005 {
             boolean availableToOthers, boolean writtenAsCourseWork,
             boolean citingYourSource, boolean implementationRequired) {
         //changes
+    	//change from lab
         // TODO: Fill in this method, then remove the exception
         
         throw new RuntimeException("implement me!");
