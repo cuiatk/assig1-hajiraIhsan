@@ -40,6 +40,7 @@ public class RulesOf6005 {
     	
         if (writtenByYourself==true && availableToOthers==false && writtenAsCourseWork==true && citingYourSource==true && implementationRequired==true)
          {
+        	
         	oneCanUseTheCode=true;
          	
          	
